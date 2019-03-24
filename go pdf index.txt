@@ -1,0 +1,7 @@
+Softcopy of GO 2019 is available in Google books.
+
+Volume 1: Engineering Mathematics, Discrete Mathematics, General Aptitude
+
+Volume 2: Algorithms, Programming & DS, Compilers, Theory of Computation
+
+Volume 3: CO & Architecture, Databases, Operating Systems, Computer Networks
